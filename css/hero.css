@@ -12,6 +12,9 @@ header{
 	padding-bottom: 50px;
 } 
 
+/* header styles*/
+/*write your comment here*/
+
 h1,h2{
 	font-family: 'Permanent Marker', cursive;
 }
@@ -26,7 +29,7 @@ a:hover{
 header h1{
 	color: #FF69b4;
 	font-size: 75px;
-	margin: 5px;
+	margin: 20px;
 }
 
 header img{
